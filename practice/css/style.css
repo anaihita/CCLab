@@ -1,0 +1,27 @@
+body {
+    background-color: honeydew;
+    margin: 0;
+}
+
+div{
+    background-color: beige;
+    width: 200px;
+    height: 300px;
+    margin: 20px 50px;
+    border:1px solid ;
+    border-color: black;
+}
+
+p{
+    background-color: blanchedalmond;
+    margin: 10px;
+
+}
+#special-box{
+    background-color: cadetblue;
+    position: fixed;
+    text-decoration: solid;
+    right: 20px;
+}
+
+
