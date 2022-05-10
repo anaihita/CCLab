@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.topBar{
+  background-color: yellow;
+  /*
+
+
+  */
+}
+
+.container {
+  background-color: grey;
+}
+
+.sideBar {
+  background-color: blue;
+}
+
+#sketchID {
+  background-color: red;
+}
+
+canvas {
+  display: block;
+}
