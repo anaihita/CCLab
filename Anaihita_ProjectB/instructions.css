@@ -6,7 +6,7 @@ body {
 
 body {
   background-color: rgb(254, 179, 158);
-  font-family: 'Press Start 2p', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .wrapper {
@@ -28,7 +28,7 @@ body {
   
   position: absolute;
   left: 50%;
-  top: 30%;
+  top: 50%;
   transform: translate(-50%, -50%);
 }
 
