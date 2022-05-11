@@ -10,7 +10,7 @@ body{
 #topBar{
   background-image: url("https://media.giphy.com/media/KY2ZMhnCxP008/giphy.gif");
   margin-top: 5%;
-  
+
 }
 .wrapper{
   display: flex;
@@ -20,7 +20,7 @@ body{
 #canvasContainer {
   display: flexbox;
   position: absolute;
-  left: 40%;
+  left: 50%;
   top: 10px;
   margin: auto;
 }
@@ -28,7 +28,7 @@ body{
 #about{
   position: absolute;
   left: 45%;
-  top: 20%;
+  top: 48%;
   background-color: lightblue;
   font-size: medium;
 }
