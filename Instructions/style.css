@@ -4,13 +4,7 @@ html, body {
 }
 
 body{
-  background-color: whitesmoke;
-}
-
-#topBar{
-  background-image: url("https://media.giphy.com/media/KY2ZMhnCxP008/giphy.gif");
-  margin-top: 5%;
-
+  background-color: lightcoral;
 }
 .wrapper{
   display: flex;
@@ -20,15 +14,14 @@ body{
 #canvasContainer {
   display: flexbox;
   position: absolute;
-  left: 50%;
+  left: 40%;
   top: 10px;
   margin: auto;
 }
-
 #about{
   position: absolute;
   left: 45%;
-  top: 48%;
+  top: 20%;
   background-color: lightblue;
   font-size: medium;
 }
