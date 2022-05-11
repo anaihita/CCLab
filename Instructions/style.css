@@ -15,13 +15,13 @@ body{
   display: flexbox;
   position: absolute;
   left: 30%;
-  top: 30%;
+  top: 10px;
   margin: auto;
 }
 #about{
   position: absolute;
   left: 45%;
-  top: 20%;
+  top: 100px;
   background-color: lightblue;
   font-size: medium;
 }
