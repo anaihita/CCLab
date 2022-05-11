@@ -4,7 +4,7 @@ function setup() {
   let canvas = createCanvas(windowWidth, windowHeight);
   canvas.parent("canvasContainer");
   textSize(50)
-  textFont('Press Start 2P');
+  textFont('Roboto');
   typeWriter(data, 0, 50, 50, 180);
 }
 
