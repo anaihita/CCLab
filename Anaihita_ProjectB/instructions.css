@@ -23,12 +23,12 @@ body {
 }
 
 .text-container {
-  
+  background-color: aqua; 
   width: 50%;
   
   position: absolute;
   left: 50%;
-  top: 20px;
+  top: 50px;
   transform: translate(-50%, -50%);
   margin-top: 50%;
 }
@@ -64,7 +64,6 @@ body {
 }
 
 a.buttons {
-  margin-left: 107px;
   margin-top: 15px;
   font-size: large;
   left: 50%;
