@@ -18,3 +18,26 @@ body{
   top: 30%;
   margin: auto;
 }
+#about{
+  position: absolute;
+  left: 45%;
+  top: 6%;
+  background-color: lightblue;
+  font-size: medium;
+}
+.instructions{
+  color: white;
+  font-size: 18px;
+  width: 35%;
+  height: 28%;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+  
+  position: relative;
+  top: 450px; 
+  left: 450px;
+  background-color: rgb(119, 119, 119);
+  box-shadow: 10px 10px 5px lightblue;
+}
