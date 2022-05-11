@@ -8,8 +8,8 @@ html, body {
 a.buttonone{
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 70%;
-    margin-top: 20px;
+    margin-left: 90%;
+    margin-top: 60px;
     color: bisque;
     text-decoration: line-through;
     position: absolute;
@@ -28,10 +28,10 @@ a.buttonone{
 a.buttontwo{
   font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 70%;
-    margin-top: 30px;
+    margin-left: 90%;
+    margin-top: 70px;
     color: bisque;
-    text-decoration: line-through;
+    text-decoration: double;
     position: absolute;
     border: 3px solid bisque;
     line-height: 3;
