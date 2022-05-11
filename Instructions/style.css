@@ -14,7 +14,7 @@ body{
 #canvasContainer {
   display: flexbox;
   position: absolute;
-  left: 30%;
+  left: 40%;
   top: 10px;
   margin: auto;
 }
