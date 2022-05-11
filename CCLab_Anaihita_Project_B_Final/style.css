@@ -7,6 +7,7 @@ html, body {
 }
 a.buttonone{
     font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-left: 70%;
     margin-top: 20px;
     color: bisque;
@@ -16,5 +17,30 @@ a.buttonone{
     line-height: 3;
     padding: 10px 40px;
     background-color: black;
+}
 
+.buttonone:hover{
+  background-color: lightblue;
+  transform: scale(1, 1);
+  transform-origin: top left;
+}
+
+a.buttontwo{
+  font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 70%;
+    margin-top: 30px;
+    color: bisque;
+    text-decoration: line-through;
+    position: absolute;
+    border: 3px solid bisque;
+    line-height: 3;
+    padding: 10px 40px;
+    background-color: black;
+}
+
+.buttontwo:hover{
+   background-color: lightblue;
+   transform: scale(1,1);
+   transform-origin: top left;
 }
