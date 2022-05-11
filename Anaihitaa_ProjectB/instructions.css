@@ -80,3 +80,15 @@ a.buttons:hover {
   transform: scale(1, 1);
   transform-origin: top left;
 }
+
+/*
+a#left {
+  position: absolute;
+  left: 30%;
+}
+
+a#right {
+  position: absolute;
+  right: 30%;
+}
+*/
