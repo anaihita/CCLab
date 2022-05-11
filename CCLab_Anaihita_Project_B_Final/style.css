@@ -5,3 +5,16 @@ html, body {
 #containerGame {
   display: block;
 }
+a.buttonone{
+    font-size: large;
+    margin-left: 70%;
+    margin-top: 20px;
+    color: bisque;
+    text-decoration: line-through;
+    position: absolute;
+    border: 3px solid bisque;
+    line-height: 3;
+    padding: 10px 40px;
+    background-color: black;
+
+}
