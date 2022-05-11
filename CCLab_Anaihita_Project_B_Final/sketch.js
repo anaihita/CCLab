@@ -32,7 +32,7 @@ function draw() {
   for (let i = 0; i < balls.length; i++) {
     let b = balls[i];
     b.move();
-    b.adjustSpeed(0.01);
+    b.adjustSpeed(0.03);
     b.checkOutOfCanvas();
     b.display();
   }
