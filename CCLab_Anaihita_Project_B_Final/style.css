@@ -11,7 +11,7 @@ a.buttonone{
     margin-left: 90%;
     margin-top: 60px;
     color: bisque;
-    text-decoration: line-through;
+    text-decoration: double;
     position: absolute;
     border: 3px solid bisque;
     line-height: 3;
@@ -19,7 +19,7 @@ a.buttonone{
     background-color: black;
 }
 
-.buttonone:hover{
+a.buttonone:hover{
   background-color: lightblue;
   transform: scale(1, 1);
   transform-origin: top left;
@@ -39,8 +39,28 @@ a.buttontwo{
     background-color: black;
 }
 
-.buttontwo:hover{
+a.buttontwo:hover{
    background-color: lightblue;
    transform: scale(1,1);
    transform-origin: top left;
+}
+
+a.buttonthree{
+  font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 90%;
+    margin-top: 80px;
+    color: bisque;
+    text-decoration: double;
+    position: absolute;
+    border: 3px solid bisque;
+    line-height: 3;
+    padding: 10px 40px;
+    background-color: black;
+}
+
+a.buttonthree:hover{
+  background-color: lightblue;
+  transform: scale(1,1);
+  transform-origin: (1,1);
 }
