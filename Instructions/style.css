@@ -19,12 +19,22 @@ body{
   align-items: center;
 }
 #about{
-  position: absolute;
-  left: 45%;
-  top: 20%;
+  color: white;
+  font-size: 18px;
+  width: 35%;
+  height: 28%;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+  
+  position: relative;
+  top: 400px; 
+  left: 400px;
   background-color: lightblue;
-  font-size: medium;
+  box-shadow: 10px 10px 5px lightgoldenrodyellow;
 }
+
 .instructions{
   color: white;
   font-size: 18px;
