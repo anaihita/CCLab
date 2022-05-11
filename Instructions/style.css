@@ -51,3 +51,24 @@ body{
   background-color: rgb(119, 119, 119);
   box-shadow: 10px 10px 5px lightblue;
 }
+
+a.buttonso{
+  font-size: medium;
+  font-family: 'Courier New', Courier, monospace;
+  top: 130px;
+  left: 450px;
+  position: relative;
+  background-color: coral;
+  box-shadow: 5px 5px 5px 5px lightpink;
+}
+
+a.buttonso:hover{
+  background-color: lightcoral;
+}
+
+a.buttonst{
+  font-size: medium;
+  font-family: 'Courier New', Courier, monospace;
+  top: 130px;
+  left: 550px;
+}

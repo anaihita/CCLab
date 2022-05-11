@@ -8,7 +8,7 @@ html, body {
 a.buttonone{
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 83%;
+    margin-left: 87%;
     margin-top: 60px;
     color: bisque;
     text-decoration: double;
@@ -28,8 +28,8 @@ a.buttonone:hover{
 a.buttontwo{
   font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 83%;
-    margin-top: 120px;
+    margin-left: 87%;
+    margin-top: 160px;
     color: bisque;
     text-decoration: double;
     position: absolute;
@@ -48,8 +48,8 @@ a.buttontwo:hover{
 a.buttonthree{
   font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 83%;
-    margin-top: 180px;
+    margin-left: 87%;
+    margin-top: 260px;
     color: bisque;
     text-decoration: double;
     position: absolute;
