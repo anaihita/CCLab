@@ -2,7 +2,7 @@ let data = "INSTRUCTIONS"
 
 function setup() {
   let canvas = createCanvas(windowWidth, windowHeight);
-  canvas.parent(canvasContainer);
+  canvas.parent("canvasContainer");
   textSize(50)
   textFont('Start 2P');
   typeWriter(data, 0, 50, 50, 180);
