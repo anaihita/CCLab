@@ -64,9 +64,10 @@ body {
 }
 
 a.buttons {
+  margin-left: 107px;
   margin-top: 15px;
   font-size: large;
-  left: 30%;
+  left: 50%;
 
   color: aliceblue;
   text-decoration: wavy;
