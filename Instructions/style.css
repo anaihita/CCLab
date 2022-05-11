@@ -53,15 +53,16 @@ body{
 }
 
 a.buttonso{
-  width: 35%;
-  height: 28%;
-  font-size: medium;
-  font-family: 'Courier New', Courier, monospace;
-  top: 130px;
-  left: 450px;
-  position: relative;
-  background-color: coral;
-  box-shadow: 5px 5px 5px 5px lightpink;
+  color: black;
+  text-decoration: none;
+  position: absolute;
+  left: 25%;
+  top:170%;
+  border: 0;
+  line-height: 1.5;
+  padding: 20px 100px;
+  font-size: 20px;
+  background-color: rgb(242,172,185);
 }
 
 a.buttonso:hover{
