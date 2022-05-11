@@ -32,7 +32,7 @@ function draw() {
   for (let i = 0; i < balls.length; i++) {
     let b = balls[i];
     b.move();
-    b.adjustSpeed(0.03);
+    b.adjustSpeed(0.01);
     b.checkOutOfCanvas();
     b.display();
   }
@@ -112,8 +112,8 @@ class Character {
     this.x = x;
     this.y = y;
     this.rad = rad; // ***
-    this.xSpd = 0;
-    this.ySpd = 0;
+    this.xSpd = 1.5;
+    this.ySpd = 1;
     this.maxSpd = 2;
     this.r = 255; // ***
     this.g = 255;
