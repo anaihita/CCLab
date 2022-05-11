@@ -22,7 +22,7 @@ body{
   color: white;
   font-size: 18px;
   width: 35%;
-  height: 28%;
+  height: 20%;
   
   
   position: absolute;
@@ -45,8 +45,8 @@ body{
   position: relative;
   top: 500px; 
   left: 450px;
-  background-color: lightgoldenrodyellow;
-  box-shadow: 10px 10px 5px lightblue;
+  background-color: lightblue;
+  box-shadow: 10px 10px 5px lightgoldenrodyellow;
 }
 
 a.buttonso{
