@@ -23,7 +23,7 @@ body {
 }
 
 .text-container {
-  /* background-color: aqua; */
+  background-color: aqua; 
   width: 50%;
   
   position: absolute;
