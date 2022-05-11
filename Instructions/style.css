@@ -46,13 +46,15 @@ body{
   padding-right: 15px;
   
   position: relative;
-  top: 100px; 
+  top: 200px; 
   left: 450px;
   background-color: rgb(119, 119, 119);
   box-shadow: 10px 10px 5px lightblue;
 }
 
 a.buttonso{
+  width: 35%;
+  height: 28%;
   font-size: medium;
   font-family: 'Courier New', Courier, monospace;
   top: 130px;
