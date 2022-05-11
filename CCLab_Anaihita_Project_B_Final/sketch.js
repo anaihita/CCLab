@@ -10,7 +10,7 @@ function preload(){
 }
 
 function setup() {
-  let canvas = createCanvas(windowWidth, windowHeight);
+  let canvas = createCanvas(700, windowHeight);
   canvas.parent("containerGame");
   g = createGraphics(width, height);
   background(50);
