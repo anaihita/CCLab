@@ -112,7 +112,7 @@ class Character {
     this.x = x;
     this.y = y;
     this.rad = rad; // ***
-    this.xSpd = 1.5;
+    this.xSpd = 1;
     this.ySpd = 1;
     this.maxSpd = 2;
     this.r = 255; // ***
