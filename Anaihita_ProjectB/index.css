@@ -30,6 +30,7 @@ a.buttons {
   line-height: 2;
   padding: 10px 40px;
   background-color: rgb(189, 215, 224);
+  font-family: 'Roboto', sans-serif;
 }
 
 a.buttons:hover {
