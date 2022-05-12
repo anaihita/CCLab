@@ -18,7 +18,7 @@ function setup() {
   char = new Character(width / 2, height / 2, 5);
   
   //
-  sound.setVolume(0.2);
+  sound.setVolume(0.1);
 }
 
 function draw() {
@@ -32,7 +32,7 @@ function draw() {
   for (let i = 0; i < balls.length; i++) {
     let b = balls[i];
     b.move();
-    b.adjustSpeed(0.01);
+    b.adjustSpeed(0.03);
     b.checkOutOfCanvas();
     b.display();
   }
@@ -112,8 +112,8 @@ class Character {
     this.x = x;
     this.y = y;
     this.rad = rad; // ***
-    this.xSpd = 1;
-    this.ySpd = 1;
+    this.xSpd = 0;
+    this.ySpd = 0;
     this.maxSpd = 2;
     this.r = 255; // ***
     this.g = 255;
