@@ -5,7 +5,7 @@ let sound;
 let beat;
 
 function preload(){
-  sound = loadSound("assets/effect.wav");
+  sound = loadSound("assets/new.wav");
   beat = loadSound("assets/beat.mp3");
 }
 
